@@ -12,5 +12,8 @@ def authenticate!(client_id, client_secret, code)
     body["access_token"]
   end
 
+def friends
+  
+end
 
 end
